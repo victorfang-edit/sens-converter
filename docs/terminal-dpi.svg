@@ -1,0 +1,91 @@
+<svg class="rich-terminal" viewBox="0 0 1238 269.6" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-1361491411-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-1361491411-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-1361491411-r1 { fill: #98a84b;font-weight: bold }
+.terminal-1361491411-r2 { fill: #c5c8c6 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-1361491411-clip-terminal">
+      <rect x="0" y="0" width="1219.0" height="218.6" />
+    </clipPath>
+    <clipPath id="terminal-1361491411-line-0">
+    <rect x="0" y="1.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1361491411-line-1">
+    <rect x="0" y="25.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1361491411-line-2">
+    <rect x="0" y="50.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1361491411-line-3">
+    <rect x="0" y="74.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1361491411-line-4">
+    <rect x="0" y="99.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1361491411-line-5">
+    <rect x="0" y="123.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1361491411-line-6">
+    <rect x="0" y="147.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1361491411-line-7">
+    <rect x="0" y="172.3" width="1220" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1236" height="267.6" rx="8"/><text class="terminal-1361491411-title" fill="#c5c8c6" text-anchor="middle" x="618" y="27">sens-converter</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-1361491411-clip-terminal)">
+    
+    <g class="terminal-1361491411-matrix">
+    <text class="terminal-1361491411-r1" x="0" y="20" textLength="12.2" clip-path="url(#terminal-1361491411-line-0)">$</text><text class="terminal-1361491411-r2" x="12.2" y="20" textLength="695.4" clip-path="url(#terminal-1361491411-line-0)">&#160;python&#160;sens.py&#160;valorant&#160;cs2&#160;0.35&#160;--dpi&#160;800&#160;--to-dpi&#160;1600</text><text class="terminal-1361491411-r2" x="1220" y="20" textLength="12.2" clip-path="url(#terminal-1361491411-line-0)">
+</text><text class="terminal-1361491411-r2" x="0" y="44.4" textLength="854" clip-path="url(#terminal-1361491411-line-1)">Source:&#160;Valorant&#160;0.35&#160;@&#160;800&#160;DPI&#160;&#160;-&gt;&#160;&#160;46.65&#160;cm/360&#160;(18.37&#160;in),&#160;eDPI&#160;280</text><text class="terminal-1361491411-r2" x="1220" y="44.4" textLength="12.2" clip-path="url(#terminal-1361491411-line-1)">
+</text><text class="terminal-1361491411-r2" x="1220" y="68.8" textLength="12.2" clip-path="url(#terminal-1361491411-line-2)">
+</text><text class="terminal-1361491411-r2" x="0" y="93.2" textLength="756.4" clip-path="url(#terminal-1361491411-line-3)">Game&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Exact&#160;sens&#160;&#160;Type&#160;in-game&#160;&#160;&#160;cm/360&#160;&#160;&#160;&#160;Error</text><text class="terminal-1361491411-r2" x="1220" y="93.2" textLength="12.2" clip-path="url(#terminal-1361491411-line-3)">
+</text><text class="terminal-1361491411-r2" x="0" y="117.6" textLength="756.4" clip-path="url(#terminal-1361491411-line-4)">--------------------------------------------------------------</text><text class="terminal-1361491411-r2" x="1220" y="117.6" textLength="12.2" clip-path="url(#terminal-1361491411-line-4)">
+</text><text class="terminal-1361491411-r2" x="0" y="142" textLength="756.4" clip-path="url(#terminal-1361491411-line-5)">Counter-Strike&#160;2&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.5568&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.5568&#160;&#160;&#160;&#160;46.65&#160;&#160;&#160;+0.00%</text><text class="terminal-1361491411-r2" x="1220" y="142" textLength="12.2" clip-path="url(#terminal-1361491411-line-5)">
+</text><text class="terminal-1361491411-r2" x="1220" y="166.4" textLength="12.2" clip-path="url(#terminal-1361491411-line-6)">
+</text><text class="terminal-1361491411-r2" x="0" y="190.8" textLength="475.8" clip-path="url(#terminal-1361491411-line-7)">(converted&#160;for&#160;a&#160;new&#160;mouse&#160;DPI&#160;of&#160;1600)</text><text class="terminal-1361491411-r2" x="1220" y="190.8" textLength="12.2" clip-path="url(#terminal-1361491411-line-7)">
+</text><text class="terminal-1361491411-r2" x="1220" y="215.2" textLength="12.2" clip-path="url(#terminal-1361491411-line-8)">
+</text>
+    </g>
+    </g>
+</svg>

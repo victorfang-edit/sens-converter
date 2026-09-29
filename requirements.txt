@@ -1,0 +1,1 @@
+matplotlib>=3.7   # only for charts.py; sens.py uses the standard library
